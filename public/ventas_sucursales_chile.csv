@@ -1,0 +1,21 @@
+id_sucursal,nombre_sucursal,region,gerente_zona,ventas_q3_clp,meta_ventas_q3_clp,categoria_tienda
+S001,Santiago Centro,Metropolitana de Santiago,Carlos Martinez,125000000,120000000,A
+S002,Providencia,Metropolitana de Santiago,Carlos Martinez,98000000,100000000,A
+S003,Las Condes,Metropolitana de Santiago,Carlos Martinez,150000000,140000000,A
+S004,Maipú,Metropolitana de Santiago,Andrea Rojas,85000000,110000000,B
+S005,Puente Alto,Metropolitana de Santiago,Andrea Rojas,90000000,115000000,B
+S006,Viña del Mar,Valparaíso,Luis Silva,105000000,105000000,A
+S007,Valparaíso Centro,Valparaíso,Luis Silva,72000000,95000000,B
+S008,Concepción Centro,Biobío,Maria Soto,112000000,115000000,A
+S009,Talcahuano,Biobío,Maria Soto,68000000,90000000,C
+S010,Antofagasta Mall,Antofagasta,Pedro Torres,130000000,125000000,A
+S011,Calama,Antofagasta,Pedro Torres,85000000,115000000,B
+S012,La Serena,Coquimbo,Camila Vega,92000000,95000000,B
+S013,Coquimbo Puerto,Coquimbo,Camila Vega,75000000,100000000,C
+S014,Temuco,La Araucanía,Jorge Ruiz,88000000,95000000,B
+S015,Valdivia,Los Ríos,Elena Campos,78000000,80000000,C
+S016,Puerto Montt,Los Lagos,Nicolas Castro,95000000,105000000,B
+S017,Iquique Zofri,Tarapacá,Fernando Ríos,140000000,130000000,A
+S018,Rancagua,O'Higgins,Sofia Herrera,82000000,90000000,B
+S019,Talca,Maule,Daniela Flores,65000000,85000000,C
+S020,Punta Arenas,Magallanes,Matias Paredes,70000000,95000000,C

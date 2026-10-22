@@ -1,0 +1,8 @@
+{
+  "name": "Remix: IA Aplicada a Productos y Servicios",
+  "description": "Plataforma interactiva para el Módulo 4 del taller de Inteligencia Artificial, enfocado en datos, pipelines y aplicaciones prácticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
